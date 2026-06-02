@@ -9,3 +9,5 @@
 .settings
 pom.xml.versionsBackup
 target
+node_modules/
+.next/
